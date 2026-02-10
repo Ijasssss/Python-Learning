@@ -36,7 +36,7 @@ print(age[-6:-2]) #  negative indexing
 """ List Methods """
 
 '''if you try to print list methods inside a print function it gets updated and  prints as a "None" 
-because in list it doesnot gets print updated results it has printed in strings
+because in list it doesnot gets print updated results how  it has printed in strings
 '''
 
 list=[2, 1, 3,]
