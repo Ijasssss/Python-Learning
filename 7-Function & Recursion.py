@@ -32,7 +32,7 @@ def mult(a=2,b=1):
     cross=a*b
     print(cross)
     return 
-mult() # this works if no arguments are given , defult parameters are already fixed in function 
+mult() # This works if no arguments are given , defult parameters are already fixed in function 
 
 def fact(a,b=1):
     cross=a*b

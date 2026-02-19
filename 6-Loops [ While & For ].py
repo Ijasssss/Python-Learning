@@ -192,7 +192,7 @@ else:
 
 
 
-""" range  """
+""" Range  """
 
 ''' It returns a sequence of numbers , where it start from 0 [Default], gets increment by 1 [Default] , stops before a given number'''
     
